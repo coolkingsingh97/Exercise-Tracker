@@ -1,0 +1,16 @@
+   88  mkdir backend
+   89  cd backend
+   90  npm init -y
+   91  npm install cors mongoose dotenv
+   92  npm fund
+   93  npm install express
+   94  sudo install -g nodmon
+   95  nodemon server
+   96  sudo install -g nodemon
+   97  nodemon server
+   98  sudo npm install -g nodemon
+   99  nodemon server
+  100  nodemon server
+  101  history > history_for_06/21.txt
+  102  history > history_for_print.txt
+  103  cd ..
