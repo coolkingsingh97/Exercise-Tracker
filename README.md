@@ -9,8 +9,8 @@ Have a package manager like brew or apt
 
 # Backend 
 
--MongoDB
--Express (Node.js)
+-MongoDB /n
+-Express (Node.js) /n
 
 # Front-End
 -React.js
