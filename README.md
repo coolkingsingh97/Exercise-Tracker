@@ -9,22 +9,22 @@ Have a package manager like brew or apt
 
 # Backend 
 
--MongoDB /n
--Express (Node.js) /n
+* MongoDB
+* Express (Node.js) 
 
 # Front-End
--React.js
--HTML
--Bootstrap(CSS)
+* React.js
+* HTML
+* Bootstrap(CSS)
 
 # Connection 
--Axios
--Mongoose
+* Axios
+* Mongoose
 
 # Testing
--Insomnia
+* Insomnia
 
 # Modules
-- Create Exercise Logs
-- List Exercises performed by users
-- Create User
+* Create Exercise Logs
+* List Exercises performed by users
+* Create User
