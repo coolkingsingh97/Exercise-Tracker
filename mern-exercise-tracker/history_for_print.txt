@@ -1,9 +1,3 @@
-   88  mkdir backend
-   89  cd backend
-   90  npm init -y
-   91  npm install cors mongoose dotenv
-   92  npm fund
-   93  npm install express
    94  sudo install -g nodmon
    95  nodemon server
    96  sudo install -g nodemon
@@ -14,3 +8,9 @@
   101  history > history_for_06/21.txt
   102  history > history_for_print.txt
   103  cd ..
+  104  history > history_for_print.txt
+  105  git status
+  106  git add .
+  107  git commit -m "Backend Framework till mongoose routes"
+  108  git push origin master
+  109  git status
